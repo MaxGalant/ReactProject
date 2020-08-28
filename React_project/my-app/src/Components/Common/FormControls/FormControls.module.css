@@ -1,0 +1,28 @@
+.formControl.error input,
+.formControl.error textarea {
+  border: 3px solid #3a6d99;
+}
+.formControl.error span {
+  color: #3a6d99;
+}
+.LoginTittle {
+  text-align: center;
+  color: #3a6d99;
+}
+.LogForm {
+  padding: 200px 400px;
+}
+.LogFormBut {
+  width: 80px;
+  height: 30px;
+  background: #3a6d99;
+  color: white;
+}
+.formErrorSummary {
+  font-weight: bold;
+  text-align: center;
+  width: 100px;
+  border: 3px solid #3a6d99;
+  padding: 5px;
+  color: #3a6d99;
+}

@@ -1,0 +1,15 @@
+.item {
+  font-weight: bold;
+  font-size: 22px;
+  color: #00437e;
+  padding-top: 10px;
+}
+.item img {
+  width: 55px;
+  height: 55px;
+  border-radius: 55px;
+}
+.like {
+  font-size: 23px;
+  color: black;
+}

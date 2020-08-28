@@ -1,0 +1,21 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 1fr 10fr;
+}
+.dialogsItem {
+  padding: 25px;
+  font-size: 20px;
+}
+
+.messages {
+  font-size: 20px;
+  padding: 25px;
+}
+.AddMessage {
+  padding-top: 40px;
+}
+.AddMessage button {
+  color: white;
+  background: #3a6d99;
+  margin-left: 115px;
+}

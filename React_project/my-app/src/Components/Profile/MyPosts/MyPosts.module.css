@@ -1,0 +1,19 @@
+.MyPosts {
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
+.MyPosts button {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.PostButton {
+  font-weight: bold;
+  height: 40px;
+  width: 90px;
+  background: #3a6d99;
+  color: white;
+}
+.PostTitle {
+  font-size: 25px;
+  color: #3a6d99;
+}

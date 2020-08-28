@@ -1,0 +1,14 @@
+.users {
+  padding: 20px 400px;
+}
+.user_img img {
+  margin-top: 20px;
+  padding-right: 5px;
+  width: 60px;
+  height: 60px;
+  border-radius: 60px;
+}
+
+span {
+  cursor: pointer;
+}

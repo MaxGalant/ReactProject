@@ -1,0 +1,18 @@
+.SelectedPage {
+  color: #3a6d99;
+  font-weight: bold;
+}
+.Paginator {
+  padding: 20px 300px;
+  padding-bottom: 5px;
+}
+.PaginatorBut {
+  color: white;
+  background: #3a6d99;
+  width: 55px;
+  height: 30px;
+}
+.Pages {
+  margin: 3px;
+  /* border: 1px solid blue; */
+}

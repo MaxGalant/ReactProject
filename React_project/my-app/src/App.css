@@ -1,0 +1,17 @@
+.app_wrapper {
+  background-color: rgb(235, 235, 235);
+  min-height: 900px;
+  max-width: 1600px;
+  padding: 0 300px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-areas:
+    " h  h "
+    "n c  ";
+  grid-template-rows: 60px 1fr;
+  grid-template-columns: 2fr 10fr;
+}
+.app-wrapper-content {
+  background: white;
+  grid-area: c;
+}
